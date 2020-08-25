@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AlgoVisual",
+  "name": "AlgoVisual - Visualizing your favourite sorting a algorithms",
   "icons": [
     {
       "src": "favicon.ico",
